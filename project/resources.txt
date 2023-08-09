@@ -1,0 +1,13 @@
+https://webglfundamentals.org/webgl/lessons/webgl-shaders-and-glsl.html
+https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html
+https://webglfundamentals.org/webgl/lessons/webgl-fundamentals.html
+https://github.com/raveenajain/Infinite-Terrain
+https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2/perlin-noise-computing-derivatives.html
+https://iquilezles.org/articles/gradientnoise/
+https://www.youtube.com/watch?v=NPyPkpYyxXI&ab_channel=IanBarnard
+https://blendswap.com/blend/29952
+https://free3d.com/3d-model/green-pine-26327.html
+https://imagetostl.com/convert/file/blend/to/obj
+https://stackoverflow.com/questions/18034677/transpose-a-mat4-in-opengl-es-2-0-glsl
+https://github.com/glslify/glsl-inverse/blob/master/index.glsl
+https://www.freepik.com/free-vector/abstract-blue-sky-background_37272502.htm#query=sky%20texture&position=5&from_view=keyword&track=ais
